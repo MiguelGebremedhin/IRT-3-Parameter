@@ -11,7 +11,9 @@ In this project, we analyzed a group of 536 students' test results to see if IRT
 Test Performance graph
 - Item 03 was the easiest item and item 14 was the most difficult
 <img width="475" alt="item performance" src="https://user-images.githubusercontent.com/112588590/190559948-1ae244ff-0eb8-49b7-addf-f83748057b78.PNG">
-Student Performance
+
+Student Performance graph
+
 - The highest density of students had less than 50% correct, this implies a significantly harder assessment than usual
 <img width="546" alt="student population performance" src="https://user-images.githubusercontent.com/112588590/190560045-00625890-b209-4410-aec8-1f378f2adbed.PNG">
 
@@ -55,4 +57,4 @@ Student Ability vs. Test Difficulty graph
 
 ICC Graph
 - Item 01 was chosen for its high quality estimation, but based off the reverse shape of the ICC, it is NOT recommended for assessment purposes
-<img width="398" alt="icc" src="https://user-images.githubusercontent.com/112588590/190560516-3701acb1-4b8e-4331-81a3-148545e960c4.PNG">
+<img width="650" alt="icc" src="https://user-images.githubusercontent.com/112588590/190560516-3701acb1-4b8e-4331-81a3-148545e960c4.PNG">
