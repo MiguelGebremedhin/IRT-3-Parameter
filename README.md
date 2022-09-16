@@ -5,6 +5,8 @@ In this project, we analyzed a group of 536 students' test results to see if IRT
 
 ## Exploratory Analysis of Students & Test
 - 536 students answered 15 items. A correct answer is indicated by “1” and an incorrect answer by “0.”
+<img width="417" alt="dimension of students" src="https://user-images.githubusercontent.com/112588590/190559274-cd8a3b2d-76ee-461a-8dca-fbfa9ec79ced.PNG">
+
 Test Performance graph
 - Item 03 was the easiest item and item 14 was the most difficult
 Student Performance
