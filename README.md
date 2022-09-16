@@ -1,6 +1,7 @@
 # IRT 3-Parameter Model
 
 In this project, we analyzed a group of 536 students' test results to see if IRT's Psychometry models combined with MCMC sampling can help us predict a student's probability of succeeding given their ability, test difficulty, and guessing ability.
+
 <img width="820" alt="IRT model" src="https://user-images.githubusercontent.com/112588590/190560752-1719eaf2-d478-4d98-a382-abf604ad02e0.PNG">
 
 
